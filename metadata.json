@@ -1,0 +1,6 @@
+{
+  "name": "Cotizador INNOVA Inversiones",
+  "description": "Calculadora dinámica de inversiones inmobiliarias con proyecciones de plusvalía y comparativa de planes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
